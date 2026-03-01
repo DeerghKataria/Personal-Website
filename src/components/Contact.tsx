@@ -1,6 +1,6 @@
 // JSX runtime handles React import automatically
 import { useState } from 'react';
-import { Mail, MapPin, Github, Linkedin, Youtube, Instagram } from 'lucide-react';
+import { Mail, MapPin, Github, Linkedin, Youtube } from 'lucide-react';
 
 const Contact = () => {
   const [emailVisible, setEmailVisible] = useState(false);
@@ -25,11 +25,6 @@ const Contact = () => {
       icon: <Youtube className="w-6 h-6" />,
       name: "YouTube",
       url: "https://www.youtube.com/deerghkataria"
-    },
-    {
-      icon: <Instagram className="w-6 h-6" />,
-      name: "Instagram",
-      url: "https://www.instagram.com/deerghkataria/"
     }
   ];
 
