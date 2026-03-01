@@ -1,6 +1,6 @@
 import React from 'react';
 import { ChevronDown, Github, Linkedin, Mail, ArrowDown } from 'lucide-react';
-import profilePhoto from "../assets/Deergh.jpg";
+import profilePhoto from "../assets/deergh.jpg";
 
 // 👇 To use your own photo, import it like this (if using a bundler like Vite/CRA):
 // import profilePhoto from './assets/your-photo.jpg';
