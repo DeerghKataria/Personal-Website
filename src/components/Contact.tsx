@@ -49,7 +49,7 @@ const Contact = () => {
               </h3>
               <p className="text-slate-300 mb-8 leading-relaxed text-center max-w-2xl mx-auto">
                 Whether you're interested in automation engineering, cloud and backend development, 
-                or just want to connect with a fellow engineer — my inbox is always open.
+                or just want to connect with a fellow engineer - my inbox is always open.
               </p>
 
               {/* Contact Info Row */}
