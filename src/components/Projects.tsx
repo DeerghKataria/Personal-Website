@@ -80,7 +80,7 @@ const Projects = () => {
           </h2>
           <div className="w-24 h-1 bg-blue-500 mx-auto rounded-full mb-4"></div>
           <p className="text-slate-300 max-w-2xl mx-auto">
-            Enterprise automation solutions built across healthcare, insurance, HR, and operations — 
+            Enterprise automation solutions built across healthcare, insurance, HR, and operations - 
             each designed for production reliability and measurable business impact.
           </p>
         </div>
